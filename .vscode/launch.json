@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nursery",
+            "request": "launch",
+            "mainClass": "app.Nursery",
+            "projectName": "midterm"
+        }
+    ]
+}
